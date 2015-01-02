@@ -8,16 +8,20 @@ Comes with two layouts; one with a vertical navigation, one with horizontal navi
 
 1. Clone the theme into your Pico theme directory.
 
+<code>
     cd /path/to/Pico/themes
     git clone https://github.com/bananana/skull
+</code>
 
 2. Edit your *config.php* file and change <code>$config['theme']</code> to <code>$config['theme'] = 'skull'</code>.
 
 3. By default the theme is set to have a vertical sidebar with navigation. To change to something that looks more like the default Pico theme (with horizontal header), rename *index.php* file to *index-v-nav.php* and rename *index-h-nav.php* to *index.php*.
 
+<cod>
     cd /path/to/Pico/themes
     mv index.php index-v-nav.php
     mv index-h-nav.php index.php
+</code>
 
 4. At this point you can remove the alt theme layout if you don't find in necessary. There's also a layout specific css file in *skull/css* direcotry.  
 
