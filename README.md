@@ -42,3 +42,7 @@ Comes with two layouts; one with a vertical navigation, one with horizontal navi
 **Mobile**
 
 ![Screenshot 0](images/screenshot-0.png "Screenshot 0") 
+
+# To Do
+
+- Make layout switching easier
