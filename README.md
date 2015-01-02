@@ -6,16 +6,16 @@ Comes with two layouts; one with a vertical navigation, one with horizontal navi
 
 # Installation
 
-1) Clone the theme into your Pico theme directory.
+**1)** Clone the theme into your Pico theme directory.
 
 <pre>
     cd /path/to/Pico/themes
     git clone https://github.com/bananana/skull
 </pre>
 
-2) Edit your *config.php* file and change <code>$config['theme']</code> to <code>$config['theme'] = 'skull'</code>.
+**2)** Edit your *config.php* file and change <code>$config['theme']</code> to <code>$config['theme'] = 'skull'</code>.
 
-3) By default the theme is set to have a vertical sidebar with navigation. To change to something that looks more like the default Pico theme (with horizontal header), rename *index.php* file to *index-v-nav.php* and rename *index-h-nav.php* to *index.php*.
+**3)** By default the theme is set to have a vertical sidebar with navigation. To change to something that looks more like the default Pico theme (with horizontal header), rename *index.php* file to *index-v-nav.php* and rename *index-h-nav.php* to *index.php*.
 
 <pre>
     cd /path/to/Pico/themes
@@ -23,22 +23,22 @@ Comes with two layouts; one with a vertical navigation, one with horizontal navi
     mv index-h-nav.php index.php
 </pre>
 
-4) At this point you can remove the alt theme layout if you don't find in necessary. There's also a layout specific css file in *skull/css* direcotry.  
+**4)** At this point you can remove the alt theme layout if you don't find in necessary. There's also a layout specific css file in *skull/css* direcotry.  
 
 # Screenshots
 
-Vertical sidebar navigation
+**Vertical sidebar navigation**
 
 ![Screenshot 1](images/screenshot-1.png "Screenshot 1")
 
 - - -
 
-Horisontal header navigation
+**Horisontal header navigation**
  
 ![Screenshot 2](images/screenshot-2.png "Screenshot 2")
 
 - - -
 
-Mobile
+**Mobile**
 
 ![Screenshot 0](images/screenshot-0.png "Screenshot 0") 
