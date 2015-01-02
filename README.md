@@ -8,10 +8,10 @@ Comes with two layouts; one with a vertical navigation, one with horizontal navi
 
 1. Clone the theme into your Pico theme directory.
 
-<code>
+<pre>
     cd /path/to/Pico/themes
     git clone https://github.com/bananana/skull
-</code>
+</pre>
 
 2. Edit your *config.php* file and change <code>$config['theme']</code> to <code>$config['theme'] = 'skull'</code>.
 
