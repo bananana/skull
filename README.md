@@ -1,6 +1,6 @@
 # Skull theme for Pico CMS
 
-Skull is a basic [Pico](http://picocms.org) theme made utilizing the [Skeleton 2.0](http://getskeleton.com) responsive boilerplate. 
+Skull is a basic [Pico](http://picocms.org) theme made utilizing the [Skeleton 2.0](http://getskeleton.com) responsive boilerplate. The theme is using stock Skeleton for the most part, with a few Pico-specific additions. 
 
 Comes with two layouts; one with a vertical navigation, one with horizontal navigation.
 
