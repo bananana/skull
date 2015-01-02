@@ -23,4 +23,18 @@ Comes with two layouts; one with a vertical navigation, one with horizontal navi
 
 # Screenshots
 
-![Screenshot 0](images/screenshot-0.png "Screenshot 0") ![Screenshot 1](images/screenshot-1.png "Screenshot 1") ![Screenshot 2](images/screenshot-2.png "Screenshot 2")
+Vertical sidebar navigation
+
+![Screenshot 1](images/screenshot-1.png "Screenshot 1")
+
+- - -
+
+Horisontal header navigation
+ 
+![Screenshot 2](images/screenshot-2.png "Screenshot 2")
+
+- - -
+
+Mobile
+
+![Screenshot 0](images/screenshot-0.png "Screenshot 0") 
