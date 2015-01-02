@@ -1,0 +1,82 @@
+/* Sidebar
+/*---------------------------------------------*/
+.sidebar {
+	position: relative;
+	background: #33C3F0;
+	color: #afe1da;
+	text-align: center;
+	padding: 25px 0;
+}	
+.sidebar a { 
+	color: #eee; 
+}
+.sidebar a,
+.sidebar a:hover { 
+	text-decoration: none;
+}
+.sidebar a:hover { 
+	color: #fff;
+}
+.sidebar h1 { 
+	font-weight: bold;
+	margin: 0; 
+}
+.sidebar h1 a {
+	color: #fff;
+}
+.sidebar ul {
+	list-style: none;
+	margin: 20px 0 0 0;
+	padding: 0;
+}
+.sidebar ul li {
+	display: inline;
+	margin: 0 5px; 
+}
+.sidebar ul a {
+	font-weight: bold;
+}
+.content {
+	padding: 25px 10px 0 10px;
+}
+
+/* Footer
+/*---------------------------------------------*/
+footer {
+	display: none;
+}
+
+/* For larger screens
+/*---------------------------------------------*/
+@media (min-width: 550px) {
+	html,
+	body,
+	.row,
+	.sidebar {
+		height: 100%;
+	}
+	.sidebar {
+		position: fixed;
+		top: 0;
+		left: 0;
+		padding: 60px 0;
+	}
+	.sidebar ul li {
+		display: list-item;
+		margin: inherit;
+	}
+	.content {
+		padding: 67px 50px 0 0;
+	}
+	footer {
+		display: block;
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		width: inherit;
+		background: #1EAEDB;
+		padding: 60px 0;
+		margin-top: 80px;
+		font-size: 0.8em;
+	}		
+}
