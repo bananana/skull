@@ -45,4 +45,5 @@ Comes with two layouts; one with a vertical navigation, one with horizontal navi
 
 # To Do
 
+- Make sure this works with Pico 1.0
 - Make layout switching easier
